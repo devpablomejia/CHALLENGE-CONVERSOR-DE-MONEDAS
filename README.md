@@ -18,7 +18,7 @@ La aplicación se integra con servicios externos confiables que proporcionan dat
 ExchangeRate-API
 
 # Instalacion
-git clone: 
+git clone: https://github.com/devpablomejia/CHALLENGE-CONVERSOR-DE-MONEDAS.git
 
 # Funcionalidades: 
 - ⭐ metodo (gestorApis) -> se encarga de las solicitudes y de retorma el valor de la tasa de cambio actualizada
